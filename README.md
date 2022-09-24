@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+(![image](https://user-images.githubusercontent.com/87413874/192076359-803804a6-c715-467a-ac43-f65906b2b7ab.png)
 
-
+)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
