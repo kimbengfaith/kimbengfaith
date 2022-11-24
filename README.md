@@ -6,7 +6,7 @@
 - 🤔 I’m looking to **Contribute to open source**
 - 💬 Ask me about **Python/Data science/ML/Technical writing**
 - 📫 How to reach me: **valenciafaith716@gmail.com**
-- ⚡ Fun fact: I am 10000 characters in one try knowing all of them😉
+- ⚡ Fun fact: I am never taken serious when i am serious😉
 
 <h1 align="left">Blogs</h1>
 
