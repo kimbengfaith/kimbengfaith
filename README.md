@@ -3,14 +3,17 @@
 - ✍ I’m a Technical writer at **freecodecamp**
 - 🌱 I’m currently learning **Data science** and **Machine learning** at **Datacamp**
 - 👯 I’m looking to collaborate on **Real Life Data projects**
-- 🤔 I’m looking for a **Mentor**
+- 🤔 I’m looking for to **Contribute to open source**
 - 💬 Ask me about **Python/Data science/ML**
 - 📫 How to reach me: **valenciafaith716@gmail.com**
 - ⚡ Fun fact: I am 10000 characters in one try knowing all of them😉
 
 <h1 align="left">Blogs</h1>
 
+**[Medium](https://medium.com/@kimfaith)**
+
 **[Hashnode](https://kimfaith.hashnode.dev/)**
+
 
 # Socials
  <p align="left"> <a href="https://twitter.com/Valencia20033" target="blank"><img src="https://img.shields.io/twitter/follow/valencia20033?logo=twitter&style=for-the-badge" alt="valencia20033" /></a> </p>
