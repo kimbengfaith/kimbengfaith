@@ -3,8 +3,8 @@
 - ✍ I’m a Technical writer at **freecodecamp**
 - 🌱 I’m currently learning **Data science** and **Machine learning** at **Datacamp**
 - 👯 I’m looking to collaborate on **Real Life Data projects**
-- 🤔 I’m looking for to **Contribute to open source**
-- 💬 Ask me about **Python/Data science/ML**
+- 🤔 I’m looking to **Contribute to open source**
+- 💬 Ask me about **Python/Data science/ML/Technical writing**
 - 📫 How to reach me: **valenciafaith716@gmail.com**
 - ⚡ Fun fact: I am 10000 characters in one try knowing all of them😉
 
