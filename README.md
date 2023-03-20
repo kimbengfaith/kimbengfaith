@@ -2,7 +2,7 @@
 
 - ✍ I’m a Technical writer at **freecodecamp**
 - 🌱 I’m currently learning **Data science** and **Machine learning** at **Datacamp**
-- 👯 I’m looking to collaborate on **Real Life Data projects**
+- 👯 I’m looking to collaborate on **Real Life Python projects**
 - 🤔 I’m looking to **Contribute to open source**
 - 💬 Ask me about **Python/Data science/ML/Technical writing**
 - 📫 How to reach me: **valenciafaith716@gmail.com**
