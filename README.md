@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋am called Kimbeng Faith Antia V.N!</h1> 
 
 - ✍ I’m a self taught **Developer**
-- 🌱 I’m currently learning **HTML** and **CSS** at **freeCodeCamp**
+- 🌱 I’m currently learning **Data science** and **Machine learning** at **Datacamp**
 - 👯 I’m looking to collaborate on **Real Life Python projects**
 - 🤔 I’m looking to **Contribute to open source**
-- 💬 Ask me about **HTML/CSS/Python/Technical writing**
+- 💬 Ask me about **HTML/CSS/Python/Technical writing/data science**
 - 📫 How to reach me: **valenciafaith716@gmail.com**
 - ⚡ Fun fact: Still thinking...
 
